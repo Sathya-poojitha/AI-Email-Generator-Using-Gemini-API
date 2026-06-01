@@ -84,13 +84,13 @@ Users can download the generated email for future use.
 
 ### Home Page
 
-![Home Page](AI_Email_Generatoe_Python/screenshots/home_page.jpeg)
+![Home Page](AI_Email_Generator_Python/screenshots/home_page.jpeg)
 
 The home page allows users to enter email details and customize the generated email.
 
 ### Generated Email
 
-![Generated Email](AI_Email_Generatoe_Python/screenshots/generated_email.jpeg)
+![Generated Email](AI_Email_Generator_Python/screenshots/generated_email.jpeg)
 
 The generated email page displays a complete AI-generated professional email.
 
